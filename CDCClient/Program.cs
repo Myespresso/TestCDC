@@ -9,7 +9,6 @@ namespace CDCClient
             Console.WriteLine("Hello World!");
             //Code will be here
             int i=0;
-            return i;
         }
     }
 }
